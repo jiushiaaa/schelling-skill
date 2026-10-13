@@ -1,14 +1,40 @@
-# F. W. J. Schelling · Skill
+<h1 align="center">schelling.skill</h1>
 
-[中文](README.md) | **English**
+<p align="center">谢林 · F. W. J. Schelling</p>
 
-[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with Nuwa](https://img.shields.io/badge/Made_with-Nuwa-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
+[中文](README.md) · **English**
 
-Subject-object relations, ground, and freedom. A bounded, source-linked thinking resource with neutral analysis by default and an explicitly enabled expression mode.
+<blockquote>
+<p align="center">“Nature should be visible spirit, and spirit invisible nature.”<br>— F. W. J. Schelling · <a href="https://assets.meiner.de/Medien-Dateien/9783787315833.pdf">Ideas for a Philosophy of Nature</a></p>
+</blockquote>
 
-Built with [nvwa-skill](https://github.com/alchaincyf/nuwa-skill).
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent_Skills-Standard-blue.svg)](https://agentskills.io/) [![Made with nvwa-skill](https://img.shields.io/badge/Made_with-nvwa--skill-orange.svg)](https://github.com/alchaincyf/nuwa-skill)
 
-[Usage](USAGE.md) · [Research and entry point](SKILL.md)
+**A thinking skill for subject–object relations, ground and existence, and freedom and evil: inspect explanatory starting points, distinguish grounds from earlier causes, and expose definitions that decide the problem in advance.**
+
+---
+
+## Examples
+
+Illustrative applications written for this README; these are not quotations from the philosopher or transcripts of a live run.
+
+### 1. If freedom can choose only what is right, is it still freedom?
+
+> Ask whether the definition excludes the possibility of evil in advance. Admitting that possibility does not require evil or justify it. Conditions of freedom and judgments of conduct remain distinct.
+
+### 2. If one thing is another’s ground, must it have occurred earlier?
+
+> Not necessarily. Determine whether the argument concerns temporal order, conceptual dependence, or an ontological relation. Treating every ground as an earlier cause changes the problem before it has been argued.
+
+## What is distilled
+
+| Method | What it helps examine |
+|---|---|
+| Subject and object | Compare explanations moving from nature to intelligence and from subject to object. |
+| Ground and prior cause | Distinguish temporal, logical, and ontological priority. |
+| Freedom and evil | Separate the possibility of evil, its occurrence, and its justification. |
+
+These are selected, source-grounded methods, not a claim to cover the complete works. See [SKILL.md](SKILL.md) and [extraction notes](EXTRACTION.md) for scope and reasoning.
 
 ## Installation
 
@@ -34,17 +60,39 @@ git clone https://github.com/jiushiaaa/schelling-skill.git
 
 If automatic skill loading is unavailable, provide `SKILL.md` together with the referenced files needed for your question. Research notes remain in their source languages; README and usage guides are bilingual.
 
-## Use
+## Usage
 
-Ask: “Use F. W. J. Schelling's ideas to analyze this problem, separating source claims from contemporary inference.” For expression simulation, explicitly request expression mode. Fiction writing and review use ideas without taking over the narrative voice. See the bilingual [usage guide](USAGE.md).
+- **Neutral analysis (default):** “Use F. W. J. Schelling’s ideas to analyze this question. Distinguish source claims from contemporary applications.”
+- **Persona expression (optional):** explicitly request “persona expression mode.” It is an acknowledged simulation, not a statement by the philosopher.
 
-## Coverage and evidence
+Fiction work uses the ideas while leaving narrative voice to the writing task. See the bilingual [usage guide](USAGE.md).
 
-The [entry point](SKILL.md) routes to documented, bounded methods and [extraction notes](EXTRACTION.md). The research directory records sources, actual reading ranges, translations, and unresolved gaps. It is not a distillation of the complete works. Research notes remain in their original languages.
+## Research sources
 
-## License
+Selections from the introduction to the System of Transcendental Idealism, the Philosophical Investigations into the Essence of Human Freedom, and the introduction to Clara.
 
-Project-original material is [MIT licensed](LICENSE). Source quotations retain their separate rights. See [attribution](ATTRIBUTION.md).
+- [Source catalogue and reading ranges](references/research/source-catalog.md)
+- [Method extraction and evidence](EXTRACTION.md)
+- Opening quotation: <a href="https://assets.meiner.de/Medien-Dateien/9783787315833.pdf">Ideas for a Philosophy of Nature</a>, Introduction, SW II, p. 56; quoted in the publisher preview. English wording is translated where the source is not English; Chinese quotations are repository translations.
+
+## Repository structure
+
+Main files:
+
+```text
+├── SKILL.md  # Skill entry point and analysis methods
+├── README.md / README.en.md  # Chinese and English introduction
+├── USAGE.md  # Bilingual usage guide
+├── EXTRACTION.md  # Method extraction and evidence
+├── references/  # Research notes and optional expression mode
+└── LICENSE  # MIT license
+```
+
+## Built with
+
+Built with [nvwa-skill](https://github.com/alchaincyf/nuwa-skill).
+
+Original project material is [MIT licensed](LICENSE); quoted works and translations retain their separate rights. See [source notices](ATTRIBUTION.md).
 
 ## More skills
 
