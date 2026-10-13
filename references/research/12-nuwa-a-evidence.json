@@ -1,0 +1,344 @@
+{
+  "id": "schelling-perspective",
+  "expression": {
+    "sample_method": "固定种子20261013；指定DOM范围中规范化后字符>=150的段落作候选，random.Random.sample无放回20段；不足20全取。网页段落而非研究者拆句。",
+    "sample_count": 15,
+    "population_count": 15,
+    "url": "https://schelling.badw.de/text/8201/",
+    "version": "BAdW Clara导论，p5–19；排除编辑前言及对话人物",
+    "source_language": "de",
+    "metrics": {
+      "characters": 14888,
+      "words": 2243,
+      "sentence_terminators": 61,
+      "question_marks": 5,
+      "first_person_singular_tokens": 1,
+      "contrast_tokens": 17,
+      "characters_per_terminator": 244.07,
+      "question_marks_per_terminator": 0.082,
+      "first_person_per_1000_words": 0.45,
+      "contrast_per_1000_words": 7.58,
+      "analogy_density": null,
+      "certainty_ratio": null
+    },
+    "samples": [
+      {
+        "locator": "p[5] zero-based",
+        "anchor": "2",
+        "sha256_normalized_utf8": "96a5f822edacb0b5fe3c16bcd662ba3f7870487a98815216ad06ef8e6f9e7a83",
+        "metrics": {
+          "characters": 305,
+          "words": 41,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[6] zero-based",
+        "anchor": "3",
+        "sha256_normalized_utf8": "ea3db6ab0148638e25fb6b957183dc69f1f631e4832d994fba63e87375fe7c5a",
+        "metrics": {
+          "characters": 1041,
+          "words": 155,
+          "sentence_terminators": 6,
+          "question_marks": 2,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[7] zero-based",
+        "anchor": "4",
+        "sha256_normalized_utf8": "6e8c7be5723f24693c4ec1dae7f8976401216785fe5834f4879c5486cd665e49",
+        "metrics": {
+          "characters": 1298,
+          "words": 192,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[8] zero-based",
+        "anchor": "5",
+        "sha256_normalized_utf8": "5e8f2304474477f9986ff7370462fdfbe8b40c4e5af40225973e9158e426c46b",
+        "metrics": {
+          "characters": 545,
+          "words": 82,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[9] zero-based",
+        "anchor": "6",
+        "sha256_normalized_utf8": "dd5c36f5825f1370c2f3594734e27dbe4c8334f64992a69308b56ac779f503e0",
+        "metrics": {
+          "characters": 1468,
+          "words": 224,
+          "sentence_terminators": 5,
+          "question_marks": 1,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "p[10] zero-based",
+        "anchor": "7",
+        "sha256_normalized_utf8": "a2fcc794544f56c87ac37ca25611650e553de490923d187bd5d2e3584e455335",
+        "metrics": {
+          "characters": 1192,
+          "words": 178,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[11] zero-based",
+        "anchor": "8",
+        "sha256_normalized_utf8": "85617ae961bab2b602639b4d4e674baa4c59386923935eea296e5e8a7546554b",
+        "metrics": {
+          "characters": 796,
+          "words": 133,
+          "sentence_terminators": 5,
+          "question_marks": 2,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[12] zero-based",
+        "anchor": "9",
+        "sha256_normalized_utf8": "a14ccbe4fdcf95ffdfe6d720e111ee568eb438d38a93ec66710ff5958186a384",
+        "metrics": {
+          "characters": 869,
+          "words": 130,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[13] zero-based",
+        "anchor": "10",
+        "sha256_normalized_utf8": "a6de76233a0fd89ac332df8c45495487ffbaacf491734bb324e583f7052e098f",
+        "metrics": {
+          "characters": 1071,
+          "words": 172,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[14] zero-based",
+        "anchor": "11",
+        "sha256_normalized_utf8": "24a8d539b43d3c633d9e0b28ac75c1e3b228996054b820521e259c2ae429e811",
+        "metrics": {
+          "characters": 242,
+          "words": 37,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "p[15] zero-based",
+        "anchor": "12",
+        "sha256_normalized_utf8": "c2e2d4e600a66b538983340ecf6abee58100ff76cc51add6be4d0d2dd98840a9",
+        "metrics": {
+          "characters": 1905,
+          "words": 280,
+          "sentence_terminators": 10,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[16] zero-based",
+        "anchor": "13",
+        "sha256_normalized_utf8": "851deda6b552cc4d5e65576fa59c31b191b307fd708f2b6b79cd3b1de718c924",
+        "metrics": {
+          "characters": 860,
+          "words": 123,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[17] zero-based",
+        "anchor": "14",
+        "sha256_normalized_utf8": "776a46166c485d12a9f2e786496b120c84bc539b00d79426b84fc8f300823580",
+        "metrics": {
+          "characters": 771,
+          "words": 119,
+          "sentence_terminators": 3,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "p[18] zero-based",
+        "anchor": "15",
+        "sha256_normalized_utf8": "5364326e9224a2cf713059ea08254fad8405c715d0cc331c2894c5e685fe106a",
+        "metrics": {
+          "characters": 1493,
+          "words": 221,
+          "sentence_terminators": 6,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "p[19] zero-based",
+        "anchor": "16",
+        "sha256_normalized_utf8": "e9852fb93dac7f55d966e45376b4add01dc214aabcfc2d1d37973156e6a60627",
+        "metrics": {
+          "characters": 1032,
+          "words": 156,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      }
+    ],
+    "lexicons": {
+      "first_person": [
+        "ich"
+      ],
+      "contrast": [
+        "aber",
+        "doch",
+        "jedoch",
+        "sondern"
+      ]
+    },
+    "limitations": [
+      "机器抽样与统计实际执行，不等于全篇语义精读；连续实读范围另列。",
+      "标点组是句界代理，缩写、引号及旧拼写会影响；不是人工句法切分。",
+      "代词和连接词仅精确词形计数；法语j开头缩合不计，因此非完备第一人称率。",
+      "类比密度与确定性比例未人工标注，保持null。",
+      "单篇/单体裁样本，不能代表作者全生涯；原语统计不强制映射中文句长。",
+      "网页版本未做纸本校勘，统计只能用于本次有哈希的电子文本。",
+      "原语导论只有15个符合规则的段落，未拆句凑20。"
+    ],
+    "style_rules": [
+      "从对立两面提出必须说明的过渡，结论保留条件。",
+      "类比用于显示生长、依赖和步骤；不把有机意象当证据。",
+      "表达层可有长距离让步和条件，正文分析仍以概念清楚优先。"
+    ],
+    "anti_patterns": [
+      "不把光暗写成玄学氛围。",
+      "不合并不同时期体系。",
+      "对话中的我和他人发言不得变为作者自传或一致立场。"
+    ],
+    "measurement_definition": {
+      "characters": "规范化字符串Python len，包括空格和标点",
+      "words": "Unicode字母词，保留内部法语撇号；数字不计",
+      "sentence_terminators": "正则[.!?]+组数，包括缩写句点，因此仅句界代理",
+      "question_ratio": "问号数/句末标点组数，非人工疑问句率",
+      "normalization": "BeautifulSoup get_text空格连接，连续空白压为一空格；SKS去script/apparatus-criticus/symbol/pagination",
+      "stored_text": "只存摘要/定位/哈希/计数，不存抽样原文"
+    }
+  },
+  "date": "2026-10-13",
+  "role": "独立研究与出题；非评分，不授A/B等级",
+  "coverage": [
+    {
+      "work_period": "1800 先验唯心论体系",
+      "read": "既有导论§1英译",
+      "unread": "主体与艺术结论未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1809 自由论文",
+      "read": "既有开头法译、根据/存在与善恶德文摘录",
+      "unread": "实际恶发生、责任和结尾未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1810年前后 Clara",
+      "read": "既有及本轮复读导论p5–19；本轮对话开头p21–23",
+      "unread": "对话主体及晚期积极哲学未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    }
+  ],
+  "primary_additions": [
+    {
+      "title": "Clara导论末段及对话开场",
+      "url": "https://schelling.badw.de/text/8201/",
+      "locator": "BAdW电子遗稿版，p[13]–[19]与p[21]–[23]；2026-07-30版",
+      "reading": "continuous primary text read",
+      "finding": "科学方法须随内容，不可仅攻击空洞套用；尊重希望与感情不等于以它们作科学原则。对话开场所叙悼亡是人物场景，未自动归成作者论证。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "双向主客关系",
+      "domain_1": "认识论：S1导论§1",
+      "domain_2": "自然与精神过渡：S5导论",
+      "cross_domain_assessment": "跨任务相关；共同根据尚是研究要求，不是已完成模型",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "根据与存在分开",
+      "domain_1": "1809神学本体论：S4",
+      "domain_2": "Clara不朽证明问题只可作对照，未复现同一根据/存在程序",
+      "cross_domain_assessment": "单域，不升级",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "自由含作恶可能",
+      "domain_1": "1809自由与善恶：S4",
+      "domain_2": "自然哲学/政治第二领域未核",
+      "cross_domain_assessment": "单域，不升级",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    }
+  ],
+  "tensions": [
+    {
+      "pair": "从自然开始／研究精神过渡的要求",
+      "primary_anchor": "Clara导论p5–13；过渡为任务，不能假装已有同一证明",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    },
+    {
+      "pair": "科学上搁置情感／不轻视信爱希望",
+      "primary_anchor": "Clara导论p18；论证根据与价值尊重不同，不记为未解自相矛盾",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "原语导论只有15个符合规则的段落，未拆句凑20。",
+    "没有把对话人物段落混入作者论说指纹。",
+    "1809后段与晚期积极哲学未补齐；三程序三重验证未全通过。"
+  ],
+  "mode_policy": {
+    "default": "中性思想分析",
+    "optional_voice": "仅用户显式选择人物表达时读取表达层；第三人称/框架推演不伪装真实本人",
+    "textgame": "文游不自动加载表达层"
+  },
+  "score": null,
+  "source_classification": "新增依据全部为原作原语电子转录；转载平台本身不等于学术校勘权威。旧证据译文/二手身份保留来源目录标签。"
+}

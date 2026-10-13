@@ -1,0 +1,484 @@
+{
+  "id": "schelling-perspective",
+  "expression": {
+    "sample_count": 20,
+    "sample_method": "分层扩展：保留Clara导论全部15段；1809转录按6个连续nbsp缩进分界，段23–30中固定种子20261013无放回抽5个完整段；不拆句，不把分层样本当同质随机总体。",
+    "samples": [
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[5]",
+        "sha256_normalized_utf8": "96a5f822edacb0b5fe3c16bcd662ba3f7870487a98815216ad06ef8e6f9e7a83",
+        "metrics": {
+          "characters": 305,
+          "words": 41,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[6]",
+        "sha256_normalized_utf8": "ea3db6ab0148638e25fb6b957183dc69f1f631e4832d994fba63e87375fe7c5a",
+        "metrics": {
+          "characters": 1041,
+          "words": 155,
+          "punctuation_groups": 6,
+          "question_marks": 2,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[7]",
+        "sha256_normalized_utf8": "6e8c7be5723f24693c4ec1dae7f8976401216785fe5834f4879c5486cd665e49",
+        "metrics": {
+          "characters": 1298,
+          "words": 192,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[8]",
+        "sha256_normalized_utf8": "5e8f2304474477f9986ff7370462fdfbe8b40c4e5af40225973e9158e426c46b",
+        "metrics": {
+          "characters": 545,
+          "words": 82,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[9]",
+        "sha256_normalized_utf8": "dd5c36f5825f1370c2f3594734e27dbe4c8334f64992a69308b56ac779f503e0",
+        "metrics": {
+          "characters": 1468,
+          "words": 224,
+          "punctuation_groups": 5,
+          "question_marks": 1,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 1
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[10]",
+        "sha256_normalized_utf8": "a2fcc794544f56c87ac37ca25611650e553de490923d187bd5d2e3584e455335",
+        "metrics": {
+          "characters": 1192,
+          "words": 178,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[11]",
+        "sha256_normalized_utf8": "85617ae961bab2b602639b4d4e674baa4c59386923935eea296e5e8a7546554b",
+        "metrics": {
+          "characters": 796,
+          "words": 133,
+          "punctuation_groups": 5,
+          "question_marks": 2,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[12]",
+        "sha256_normalized_utf8": "a14ccbe4fdcf95ffdfe6d720e111ee568eb438d38a93ec66710ff5958186a384",
+        "metrics": {
+          "characters": 869,
+          "words": 130,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[13]",
+        "sha256_normalized_utf8": "a6de76233a0fd89ac332df8c45495487ffbaacf491734bb324e583f7052e098f",
+        "metrics": {
+          "characters": 1071,
+          "words": 172,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[14]",
+        "sha256_normalized_utf8": "24a8d539b43d3c633d9e0b28ac75c1e3b228996054b820521e259c2ae429e811",
+        "metrics": {
+          "characters": 242,
+          "words": 37,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[15]",
+        "sha256_normalized_utf8": "c2e2d4e600a66b538983340ecf6abee58100ff76cc51add6be4d0d2dd98840a9",
+        "metrics": {
+          "characters": 1905,
+          "words": 280,
+          "punctuation_groups": 10,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[16]",
+        "sha256_normalized_utf8": "851deda6b552cc4d5e65576fa59c31b191b307fd708f2b6b79cd3b1de718c924",
+        "metrics": {
+          "characters": 860,
+          "words": 123,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[17]",
+        "sha256_normalized_utf8": "776a46166c485d12a9f2e786496b120c84bc539b00d79426b84fc8f300823580",
+        "metrics": {
+          "characters": 771,
+          "words": 119,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[18]",
+        "sha256_normalized_utf8": "5364326e9224a2cf713059ea08254fad8405c715d0cc331c2894c5e685fe106a",
+        "metrics": {
+          "characters": 1493,
+          "words": 221,
+          "punctuation_groups": 6,
+          "question_marks": 0,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://schelling.badw.de/text/8201/",
+        "locator": "p[19]",
+        "sha256_normalized_utf8": "e9852fb93dac7f55d966e45376b4add01dc214aabcfc2d1d37973156e6a60627",
+        "metrics": {
+          "characters": 1032,
+          "words": 156,
+          "punctuation_groups": 4,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+        "locator": "six-nbsp indentation segment[24]",
+        "sha256_normalized_utf8": "bbe41d395c1ec63a9019c650e5998a1574db738400d45a2af3986399e3747c38",
+        "metrics": {
+          "characters": 1897,
+          "words": 312,
+          "punctuation_groups": 13,
+          "question_marks": 0,
+          "semicolons": 5,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+        "locator": "six-nbsp indentation segment[25]",
+        "sha256_normalized_utf8": "60ba9d4718aa39658c2c6ad9bc732e864c9cc6c3ba46efd57a09f3d3a8a314a0",
+        "metrics": {
+          "characters": 7230,
+          "words": 1123,
+          "punctuation_groups": 36,
+          "question_marks": 0,
+          "semicolons": 9,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+        "locator": "six-nbsp indentation segment[26]",
+        "sha256_normalized_utf8": "a60687f41e98a86814c1d73da300a68e5df35cb2110af00897dc805d4adce0a5",
+        "metrics": {
+          "characters": 4319,
+          "words": 686,
+          "punctuation_groups": 28,
+          "question_marks": 0,
+          "semicolons": 5,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+        "locator": "six-nbsp indentation segment[27]",
+        "sha256_normalized_utf8": "50be0ce7c47a053835fb60ccf15901e15b29ce44a00fda795b79d0b04aeef2aa",
+        "metrics": {
+          "characters": 5692,
+          "words": 891,
+          "punctuation_groups": 23,
+          "question_marks": 0,
+          "semicolons": 3,
+          "colons": 2,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+        "locator": "six-nbsp indentation segment[30]",
+        "sha256_normalized_utf8": "fee3afa4814483498303677dae3344ad2f96c7746584c8664565f90007b83764",
+        "metrics": {
+          "characters": 3721,
+          "words": 581,
+          "punctuation_groups": 24,
+          "question_marks": 1,
+          "semicolons": 5,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      }
+    ],
+    "metrics": {
+      "characters": 37747,
+      "words": 5836,
+      "punctuation_groups": 185,
+      "question_marks": 6,
+      "semicolons": 37,
+      "colons": 5,
+      "dashes": 0,
+      "first_person_singular": 1,
+      "characters_per_punctuation_group": 204.04
+    },
+    "source_language": "de",
+    "style_rules": [
+      {
+        "rule": "先展开一条较长关系句，再用短句锁定本段所得；短句须是长链的结果，不能先抛格言。",
+        "anchor": "段24：根据区分→类比→取消时间化→互相预设；Clara导论p13–19"
+      },
+      {
+        "rule": "同一对关系词在段内数次重排，后一轮改变观察方面，使推进发生在关系而非更换华丽名词。",
+        "anchor": "段24同一者/根据/存在的回环；段26从自然个体推进到人"
+      },
+      {
+        "rule": "有机意象按形成步骤连续展开：埋藏、区分、显现；写完返回所说明的概念关系。",
+        "anchor": "段25种子、孕育、思想区分、植物展开"
+      },
+      {
+        "rule": "允许长段中先预告目前只解释哪一层，再让读者看见下一层为何另需论证。",
+        "anchor": "段27开头严格分可能与实际"
+      },
+      {
+        "rule": "论争时可把对手概念推到两条明示分支，让每一支承担不同后果；不要只以庄严否定结尾。",
+        "anchor": "段30理性不愿有效/不能有效两支"
+      }
+    ],
+    "anti_patterns": [
+      "不得用光暗、深渊、生命作无论证气氛。",
+      "不得将植物或疾病类比直接变成心理/医学事实。",
+      "不把1800艺术体系、1809自由论文、Clara遗稿合成一个无时期差异的口吻。",
+      "不把本轮新增局部程序替换旧名称后宣称三个模型已验证。"
+    ],
+    "metrics_definition": {
+      "characters": "规范化Unicode字符串长度，含空格标点",
+      "words": "Unicode字母词，保留词内撇号",
+      "punctuation_groups": "[.!?]+组数，包括缩写句点，只是句界代理",
+      "first_person_singular": "德语ich或丹麦语jeg精确词形",
+      "other": "分号、冒号、Unicode破折号直接计数；不含普通ASCII连字符",
+      "sample_text": "只保存哈希、定位和计数，不再分发完整原作"
+    },
+    "uncomputed_metrics": [
+      "人工句法平均句长",
+      "类比密度",
+      "确定性语气比例",
+      "作者与译者/时代基线的独特性差异"
+    ],
+    "limitations": [
+      "原语计数不能直接规定中文句长；本轮没有中文盲辨识结果。",
+      "固定局部总体而非全集随机样本；网页层级和段落标记如更动须按哈希复核。",
+      "节首排印字母与部分脚注残余符号会影响少量计数；指标为该规范化电子文本的实际值，不报纸本精确句法统计。"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1809自由论文德文",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Schelling/sch_frei.html",
+      "actual_reading": "六个nbsp缩进分段14、24–27、30完整；其中24–27为连续论证。网页编号仅本次定位，样本存哈希。",
+      "version": "网页据M. Schröter编Schellings Werke第四主卷pp.223–308，1927 ff.；标题标1809/34，不能直接当1809初版同一文本。"
+    },
+    {
+      "title": "1809初版图像",
+      "url": "https://digital.blb-karlsruhe.de/blbihd/content/pageview/5581772",
+      "actual_reading": "目视核对印刷页420、427–431；关键根据/存在为429–430；431仅作为后续段开端，不能报后续整段扫描已读。",
+      "version": "Landshut: Krüll, 1809，BLB馆藏数字化《Philosophische Schriften》第一卷。图像ID5581772=429，5581773=430，5581774=431。"
+    },
+    {
+      "title": "Clara遗稿导论",
+      "url": "https://schelling.badw.de/text/8201/",
+      "actual_reading": "前轮已完整审读p5–19，本轮重新抓取这15段计数；不报告本轮新增读15段。",
+      "version": "BAdW电子遗稿版；导论与1809论争分层，不混入对话人物。"
+    }
+  ],
+  "textual_check": {
+    "scope": "对照1809初版429–430与Schröter系转录段23/24的关键关系、先后否定、互相预设；初版页429脚注指Zeitschrift für speculative Physik II.2 p54、93、114，页430另指59–60、41、114。只记录脚注，未补读其所引1801原作。",
+    "result": "本体存在与其根据有别而不可分；转录所示重力/光类比及非时间先后均能在初版图像找到。未做逐字异文表；不能称完成历史批判版校勘。",
+    "stable_links": [
+      "https://digital.blb-karlsruhe.de/blbihd/content/pageview/5581772",
+      "https://digital.blb-karlsruhe.de/blbihd/content/pageview/5581773"
+    ]
+  },
+  "argument_chains": [
+    {
+      "title": "根据与存在：区分并不等于外在分离",
+      "locator": "初版429–430；转录段24",
+      "premise": "若绝对者之外没有别物，根据就不能简单放在外部。",
+      "reasoning": "文本区分存在者和其存在的根据，以自然中的重力/光说明依存关系；继而明确，先行不是时间顺序，也不是本质优先，双方互相预设。",
+      "limit": "这是形而上学解释和作者自己的自然哲学类比，不是现代物理；不得据此宣布实际物理先后。"
+    },
+    {
+      "title": "生成中的分化：不是抽走差异得到统一",
+      "locator": "段25–26",
+      "premise": "原作要说明有区别的个体怎样生成，而非只被包含在一个静态概念里。",
+      "reasoning": "从渴望、思想形成到植物展开，文本反复描述力量区分后显出其结合；再将这种叙述推进到人的两种原则。",
+      "limit": "类比承担解释功能，未独立证明神学；植物、心理、宇宙论不是三个独立实证。"
+    },
+    {
+      "title": "可能、实际与倒置",
+      "locator": "段27与30",
+      "premise": "两原则可分只说明恶的可能，实际恶须另外说明。",
+      "reasoning": "文本将恶写成局部意志占据整体地位，借疾病说明部分独立化带来的失调；又排除把恶仅说成动物性、感性或理性缺席，因为被动受因支配不足说明可归责的恶。",
+      "limit": "疾病不是患者道德过错的诊断；动物例子是边界，不能拿来证明动物有同一自由。"
+    },
+    {
+      "title": "系词不消除关系差别",
+      "locator": "完整段14",
+      "premise": "说两个规定属于同一者，不必说它们在同一方面毫无分别。",
+      "reasoning": "原文先以身体与蓝色分析同一主项下不同规定，再检查善/恶、自由/必然与身/心的误读，最后借隐含与展开说明主谓关系。",
+      "limit": "这是原作局部程序；不能把任何相反断言都用层级不同消掉，须具体交代同一者、方面与依存关系。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "双向考察主客关系",
+      "primary_domains": [
+        "1800导论§3理论认识",
+        "1800导论§3实践改变对象"
+      ],
+      "cross_domain": "前轮已有双领域任务，本轮没有新增完成整个体系的证据",
+      "independent_task": "检查解释方向",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "根据与现实存在",
+      "primary_domains": [
+        "1809神学论证",
+        "同段重力/光为自然类比"
+      ],
+      "cross_domain": "补充原作者跨对象类比；严格独立第二领域仍不足",
+      "independent_task": "检查根据被时间化或外在实体化",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "自由须容纳恶的可能",
+      "primary_domains": [
+        "1809人类道德自由",
+        "动物与疾病只是反例/类比"
+      ],
+      "cross_domain": "维持单域有限程序，不重命名升格",
+      "independent_task": "检查自由定义是否预先取消可归责的失败",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "新增候选：同一命题的关系检查",
+      "primary_domains": [
+        "段14身体/颜色的逻辑判断",
+        "同段善恶、自由必然的伦理形而上学论争"
+      ],
+      "cross_domain": "原作者明确复用判断分析；跨对象成立，但独立大领域强度有限",
+      "independent_task": "逐项列出主项、谓项、所论方面、依存方向，区别同一与无差别",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    }
+  ],
+  "remaining_gaps": [
+    "没有完成1809/1834/Schröter诸版本逐字校勘。",
+    "原模型2严格第二领域、模型3独立第二领域仍未成立。",
+    "20段是15+5分层样本，其中大段权重高，不代表全生涯；未执行中文声纹盲测。"
+  ],
+  "date": "2026-10-13",
+  "mode_policy": {
+    "default": "中性思想分析不变",
+    "optional_voice": "仅明确选择人物表达时加载",
+    "textgame": "不自动加载表达层"
+  },
+  "role": "限定原作证据与表达样本；不是作者全部思想或已验证普遍模型"
+}

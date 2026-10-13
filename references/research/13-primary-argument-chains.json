@@ -1,0 +1,82 @@
+{
+  "id": "schelling-perspective",
+  "date": "2026-10-13",
+  "role": "独立研究补证；非评分；不修改已交付research/proposals",
+  "readings": [
+    {
+      "work": "1800体系导论§3 A–D及§4 1–4",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.htm",
+      "actual_scope": "英译原作节选连续实读；先前仅§1，现扩大到理论/实践/目的论/艺术的程序声明"
+    }
+  ],
+  "argument_chains": [
+    {
+      "topic": "1800导论§§1、3：双向解释的冲突",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.htm",
+      "locator": "§3 A–D",
+      "premises": "知识似乎要求表象依对象，行动又要求对象可依表象改变；两种确信的方向相反。",
+      "reasoning": "分别展开理论和实践所需条件，才看见共同解释任务。作者进而提出有意识与无意识生产活动的同一，并以目的论及艺术作为衔接方向。",
+      "limits": "导论在这里大量使用假设和要求，不能当主体全部推导已完成。1800的艺术结论不能直接覆盖1809自由论。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "1800导论§4：构造活动和构造成果",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/ge/schellin.htm",
+      "locator": "§4 1–3",
+      "premises": "数学和哲学都涉及构造，但研究对象不相同。",
+      "reasoning": "数学者可面向构成的对象；先验哲学还必须反观使对象成立的活动，自己既生产又观察这种生产。艺术把生产指向外在作品，哲学把它指向内在反观。",
+      "limits": "这提供方法上的方向区别，不证明所有活动其实相同，也不把艺术风格当哲学证据。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "Clara导论：过渡、内容与证成",
+      "url": "https://schelling.badw.de/text/8201/",
+      "locator": "p13–19",
+      "premises": "研究精神不能在一开始就切断自然根据；说有某种存在还须说明它的性质。",
+      "reasoning": "由低到高的过渡要满足条件，思想形式要随研究内容。只批评一种方法被僵化滥用，并未触及方法与对象的真正关系。情感可以有价值，科学论证却不能把希望满足当作证成。",
+      "limits": "尊重信爱希望不等于靠它们推出结论；导论并未完成不朽证明。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    },
+    {
+      "topic": "1809：根据、存在与恶的可能",
+      "url": "https://www.philoso.de/de_neu/000005funde/000003aus%20der%20Romantik/000005Schelling%20-%20Freiheitsschrift/index.php",
+      "locator": "既有S4德文18–38、44–53，确切URL见canonical来源目录",
+      "premises": "根据与现实存在可有区别，但该区别不是两个互不相干的实体。",
+      "reasoning": "先问所谓先行是时间先后还是解释关系；人的独立性若被定义为只能行善，恶的可能就已在定义中被排除。保留个体原则与统一关系，是原作所读段落的任务。",
+      "limits": "可能作恶、实际作恶和为恶辩护不同；现有范围未完成责任论。",
+      "form": "通用章节论证摘要，不按测试题号编排"
+    }
+  ],
+  "programs": [
+    {
+      "name": "双向考察主客关系",
+      "domain_1": "§3 A理论认识",
+      "domain_2": "§3 B实践行动，§3 C-D说明冲突与桥接任务",
+      "status": "两领域在原作明确展开；只能支持任务框架，不报整套解决成功",
+      "independence": "输入是解释方向冲突，不是根据先后或道德责任。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "根据与现实存在",
+      "domain_1": "1809自由论文根据/存在",
+      "domain_2": "Clara存在性质要求不是同一个根据区分",
+      "status": "单域，不能凑第二实例",
+      "independence": "输入是解释根据被时间化。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    },
+    {
+      "name": "自由须容纳恶的可能",
+      "domain_1": "1809自由/善恶",
+      "domain_2": "其他独立领域未实读",
+      "status": "单域，独立有限程序有源",
+      "independence": "输入是自由定义排除真实道德失败，不与前项合并。",
+      "generation_and_discrimination": "留给后续独立行为测试，不由本文评分"
+    }
+  ],
+  "remaining_reading": [
+    "要扩充根据/存在程序：1809自由论文从根据区分直至恶实际发生、人的永恒决定和可归责性的连续后文；本轮未读。",
+    "第二跨领域如借晚期消极/积极哲学，必须新增1830–40年代讲课原作的本质/存在论证，不可预先把它等同1809。"
+  ],
+  "verdict": "至少三条有限独立推理程序可定位；仍有单域条目，不宣称全部达到三重验证。",
+  "score": null
+}

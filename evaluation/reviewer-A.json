@@ -1,0 +1,84 @@
+{
+  "id": "schelling-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "存在断言缺性质不足回答不朽；只提出过渡任务不伪装完成证明。",
+      "source": "Clara导论德文L112–119直接核"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "科学论证暂置情感而非贬低信爱希望，层次区分精确。",
+      "source": "同作L127–130直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "误用形式未反驳内容与方法关系；新增两种检验明确标为推演。",
+      "source": "同作L131–133直接核"
+    }
+  ],
+  "voice": {
+    "score": 7,
+    "blind_guess": "无法可靠识别；弱猜叔本华",
+    "reason": "未识别谢林。因果方向倒置、让步和装饰比喻尚有组织，但缺乏独有推演，理由为意志服务仅是内容家族线索。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "三部一手与译本身份透明，Clara的学术电子版可定位，原语局部核查并非体系全读。",
+    "primary_ratio_basis": "1800体系、1809自由论文、Clara3部一手及SEP1，3/4；自由论文不同转录和扫描只计1。"
+  },
+  "structure": {
+    "score": 8,
+    "reason": "有多条护栏与两组张力，但三个条目均自承局部启发式，跨域生成与独立检验不足；不能因为三标题齐全满足成熟模型结构。",
+    "models": [
+      "主客双向考察（局部）",
+      "根据与存在（局部）",
+      "自由容纳恶的可能（局部）"
+    ],
+    "boundaries": [
+      "同形式不证明共同根据",
+      "逻辑先行不等于时间先行",
+      "恶可能不等于必然或正当"
+    ],
+    "tensions": [
+      "自然为起点／过渡精神世界的任务",
+      "科学暂置感情／不轻视信爱希望"
+    ]
+  },
+  "total": 79,
+  "grade": "B",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://schelling.badw.de/text/8201/",
+      "status": "direct_partial",
+      "read": "德文导论L94–133分次阅读，三个已知题对应L119、127–130、131–133；未读对话主体及1800/1809全篇"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P11",
+    "blind_preference": "tie",
+    "mapped_result": "tie",
+    "post_unblinding_issues": [
+      "Q6的若保留题干模态，未发现需改变tie解释的确定事实或归属错误；不把一般对象/形式术语当独有文风。",
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "0f0145f7f8b4d45b562753f84b7796b29f4b0ff0486a73f449cdb45eb7c0ba03",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}
